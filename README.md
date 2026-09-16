@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=maliilaa&color=ff69b4)
-<img width="1200" height="1195" alt="image" src="https://github.com/user-attachments/assets/f589ff5f-1a38-4549-959c-29a5a1d4c1d3" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/f589ff5f-1a38-4549-959c-29a5a1d4c1d3" />
 
 Hi 👋 My name is Mali
 =====================
